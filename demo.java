@@ -3,6 +3,6 @@ public class demo{
 	System.out.println ("This is the Demo code");
 	System.out.println ("This is the change for POLL SCM ");
 	System.out.println ("Another Commit- withOption POLL SCM");
-		System.out.println ("This is the  2nd  line of print statment in demo code");
+		System.out.println ("This line is for checking POLL SCM in Instance");
 	}
 }
