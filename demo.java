@@ -1,7 +1,7 @@
 public class demo{
 	public static void main (String [] args){
 	System.out.println ("This is the Demo code");
-	System.out.println ("for checking Webhook is working or not");
+	System.out.println ("for checking Webhook working");
 	
 	}
 }
